@@ -1,14 +1,14 @@
 <p align="center">
-    <a href="https://ciklum-digital.github.io/recipes/">
-        <img width="96" src="https://ciklum-digital.github.io/recipes/assets/images/icon.svg" alt="module recipes icon">
+    <a href="https://ciklum-digital.github.io/intership/">
+        <img width="96" src="https://ciklum-digital.github.io/intership/assets/images/icon.svg" alt="module intership icon">
     </a>
 </p>
-<h3 align="center">> Start your cooking here</b> </h3>    
 
-<p align="center">🚀 Quick point to start your learning</p> 
-<p align="center">⏱ Reduce time for Internet exploring</p>
-<p align="center">💎 Rich recipes collections</p>
+<h3 align="center">
+ Join an atmosphere of <b>Openness</b>, <b>Empowerment</b> and <b>Trust</b>
+</h3>   
 
-## Contacts
-
-Any questions?, conduct us directly via [Slack](https://ciklum-oss.slack.com/messages/CLQ9F4NU8)
+<p align="center">🔦 Transparent processes and flat management</p> 
+<p align="center">🤝 Core model based on partnership</p>
+<p align="center">🚀 Talent enhancement</p> 
+<p align="center">🤲 Real value creation</p>
