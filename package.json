@@ -1,0 +1,30 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "Web-application development recipes",
+  "main": "docs/index.html",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "npx docsify serve ./docs"
+  },
+  "dependencies": {
+    "docsify-cli": "^4.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciklum-digital/internship.git"
+  },
+  "keywords": [
+    "Javascipt",
+    "Ciklum",
+    "Intership"
+  ],
+  "author": "Bohdan Pohasii bpo@ciklum.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ciklum-digital/internship/issues"
+  },
+  "homepage": "https://ciklum-digital.github.io/internship/"
+}
