@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://ciklum-digital.github.io/intership/">
-        <img width="96" src="https://ciklum-digital.github.io/intership/assets/images/icon.svg" alt="module intership icon">
+        <img width="96" src="https://ciklum-digital.github.io/intership/assets/images/icon.svg" alt="intership icon">
     </a>
 </p>
 
