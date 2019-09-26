@@ -1,5 +1,6 @@
 - [Overview](getting_started.md)
-- [Tech spec](pages/tech_spec.md)
+- [Program](pages/program.md)
+- [Task](pages/task.md)
 - [Team](pages/team.md)
 - [FAQ](pages/faq.md)
 - [Code of conduct](CODE_OF_CONDUCT.md)
