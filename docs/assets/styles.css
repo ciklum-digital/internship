@@ -347,6 +347,10 @@ body .sidebar-toggle span:nth-child(3) {
     color: #e96900;
 }
 
+.content img {
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 4px 0px;
+}
+
 .docsify-copy-code-button {
     font-size: 0.7em !important;
 }
