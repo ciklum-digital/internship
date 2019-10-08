@@ -5,7 +5,7 @@
 ![logo](assets/images/icon.svg)
 
 <h1 class="label">
-  Ciklum University: JS Internship 
+  Ciklum University: JS Royal Internship 
 </h1>
 
 > Join an atmosphere of **Openness**, **Empowerment** and **Trust**
