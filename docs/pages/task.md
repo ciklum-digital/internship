@@ -30,6 +30,7 @@
 
 ## Acceptance criteria
 - Only `JavaScript` should be used for task implementation;
+- JavaScript code should be lintered with [`airbnb/javascript`](https://github.com/airbnb/javascript) style guide;
 - Any `CSS pre/post processor` should be used for task implementation;
 - Any `module bundler` should be used for task implementation;
 - Usage documentation should be provided in a `README` file;

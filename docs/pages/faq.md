@@ -1,14 +1,21 @@
 # FAQ
 
-> How long?
+> When the deadline of test task?
 
-A. lorem ispum text. lorem ispum textlorem ispum textlorem ispum textlorem ispum text 
+Answer: `27 October 2019`
 
+> Will we have homework after lectures?
 
-> Who?
+Answer: Yes, And we will review it and add to your score
 
-A. lorem ispum text. lorem ispum textlorem ispum textlorem ispum textlorem ispum text 
+> Will we have final task?
 
-> Whats next?
+Answer: Yes, it will combine all your experience  
 
-A. lorem ispum text. lorem ispum textlorem ispum textlorem ispum textlorem ispum text 
+> How you define a leaders?
+
+Answer: Based on all your practice work (including test task, home works, final task) and you soft skills  
+
+> How many lectures will we have?
+
+Answer: Approximately `10 lectures` 
