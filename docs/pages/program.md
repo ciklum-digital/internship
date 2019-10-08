@@ -76,7 +76,7 @@
 - Jest
 - Sonar
 
-## Frameworks
+## Front End development
 >#### Angular
 
 - Basic concepts
@@ -98,6 +98,14 @@
 - Forms
 - Routing
 - Context
+
+## Back End development
+>#### Node
+
+- Core
+- Frameworks (Express)
+- API testing
+
 
 ## Sdlc
 >#### Methodologies

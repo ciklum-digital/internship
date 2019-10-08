@@ -5,15 +5,13 @@
 ![logo](assets/images/icon.svg)
 
 <h1 class="label">
-  JS Internship 
+  Ciklum University: JS Internship 
 </h1>
 
 > Join an atmosphere of **Openness**, **Empowerment** and **Trust**
 
-- 🔦 Transparent processes and flat management 
-- 🤝 Core model based on partnership
-- 🚀 Talent enhancement 
-- 🤲 Real value creation
+- 💎 Enhance your skills 
+- 🚀 Start your career with us 
 
 <div class="buttons">
   <a href="https://github.com/ciklum-digital/internship" target="_blank"><span>GitHub</span></a>
