@@ -1,6 +1,6 @@
 # Course overview
 
-Ciklum is glad to announce the **Ciklum University: JS Internship** program opening in Kyiv!
+Ciklum is glad to announce the **Ciklum University: JS Royal Internship** program opening in Kyiv!
 
 We will offer placement in Ciklum Digital Team to those who successfully finish the program.
 
