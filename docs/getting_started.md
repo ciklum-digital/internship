@@ -34,7 +34,6 @@ If you have questions, before getting down to the task, please drop us a line at
 `[important]` The education is for free, but we reserve the right to choose the candidates for the program;
  
 If you have any questions - get in touch at ia-js-band-internship@ciklum.com
-Please add `[JS_BAND_INTERSHIP]` into the subject of the email.
  
 May the force be with you 🙌
 
