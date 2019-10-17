@@ -22,7 +22,7 @@ To apply for the program, please fill in the [form](https://forms.gle/v1u3kPg4HM
 - Link to GitHub repository
 - Link to GitHub pages with task
  
-If you have questions, before getting down to the task, please drop us a line at ia-js-internship@ciklum.com
+If you have questions, before getting down to the task, please drop us a line at ia-js-band-internship@ciklum.com
 
 ## Internship details
 - Applications are due `03 November` include;
@@ -33,8 +33,8 @@ If you have questions, before getting down to the task, please drop us a line at
 
 `[important]` The education is for free, but we reserve the right to choose the candidates for the program;
  
-If you have any questions - get in touch at ia-js-internship@ciklum.com
-Please add `[JS_INTERSHIP]` into the subject of the email.
+If you have any questions - get in touch at ia-js-band-internship@ciklum.com
+Please add `[JS_BAND_INTERSHIP]` into the subject of the email.
  
 May the force be with you 🙌
 
