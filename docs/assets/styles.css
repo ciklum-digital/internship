@@ -1,17 +1,15 @@
 :root {
-    --theme-color: #f05722;
-    --theme-color-bg: #ffffff;
-    /*--theme-color-bg: #111517;*/
-
-    --text-color-base: #191919;
-    /*--text-color-base: #fff;*/
-    --text-color-secondary: #646473;
+    --theme-color: #ffffff;
+    --theme-color-bg: #252525;
+    --text-color-base: #252525;
+    --text-color-base-secondary: #ffffff;
+    --text-color-secondary: #3b3b3b;
     --text-color-tertiary: #81818e;
 }
 
 body {
     font-size: 100%;
-    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'aileron', sans-serif;
     line-height: 1.5;
     color: var(--text-color-base);
 }
@@ -24,8 +22,13 @@ a {
     transition: all 0.3s linear;
 }
 
-.github-corner {
+.cover .github-corner {
+    display: none;
+}
+
+.github-corner svg {
     z-index: 5;
+    fill: var(--text-color-base);
 }
 
 section.cover {
@@ -43,11 +46,6 @@ section.cover .cover-main {
     margin: 0;
     padding: 32px 16px 0;
 }
-
-section.cover img {
-    width: 130px;
-}
-
 section.cover h1 {
     margin: 0.3rem 0 2rem;
     font-weight: 600;
@@ -76,6 +74,14 @@ section.cover.show ~ .sidebar-toggle {
     display: none;
 }
 
+.sidebar ul li.active>a {
+    color: var(--text-color-secondary);
+}
+
+.sidebar ul li a:hover {
+    color: var(--text-color-base);
+}
+
 .cover-main .ciklum-logo {
     position: fixed;
     display: flex;
@@ -88,14 +94,8 @@ section.cover.show ~ .sidebar-toggle {
     z-index: 5;
 }
 
-.cover-main .ciklum-logo .logo {
-    width: 125px;
-    height: 35px;
-    background-size: 100%;
-    background: url('images/ciklum-logo.svg') no-repeat center center;
-}
-
 .cover-main .buttons {
+    margin-top: 100px;
     width: 100%;
 }
 
@@ -141,8 +141,7 @@ section.cover.show ~ .sidebar-toggle {
 }
 
 .cover-main .buttons a:hover {
-    color: white;
-    box-shadow: 0 5px 16px rgba(229, 9, 20, 0.3);
+    color: var(--text-color-base);
 }
 
 .cover-main .buttons a:hover:after {
@@ -152,6 +151,19 @@ section.cover.show ~ .sidebar-toggle {
 .cover-main .buttons a span {
     position: relative;
     z-index: 1;
+}
+
+.markdown-section code {
+    background-color: var(--theme-color-bg);
+    color: var(--text-color-base-secondary);
+}
+
+.markdown-section a {
+    color: var(--text-color-base);
+}
+
+.markdown-section blockquote {
+    border-left: 4px solid var(--text-color-tertiary);
 }
 
 @media (max-width: 850px) {
@@ -191,7 +203,7 @@ section.cover.show ~ .sidebar-toggle {
 }
 
 .sidebar ul li a:hover {
-    color: var(--theme-color);
+    color: var(--text-color-base);
 }
 
 .app-sub-sidebar li:before {
@@ -349,10 +361,6 @@ body .sidebar-toggle span:nth-child(3) {
 
 .content img {
     box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 4px 0px;
-}
-
-.content img.mentors {
-    border-radius: 50%;
 }
 
 .docsify-copy-code-button {
