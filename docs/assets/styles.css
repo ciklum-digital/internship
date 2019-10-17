@@ -37,6 +37,9 @@ section.cover {
     min-height: 100vh;
     background: var(--theme-color-bg) !important;
 }
+section.cover img {
+    margin-top: 50px;
+}
 
 section.cover .cover-main {
     display: flex;
