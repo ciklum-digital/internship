@@ -2,7 +2,7 @@
 
 > When the deadline of test task?
 
-Answer: `27 October 2019`
+Answer: `03 November 2019`
 
 > Will we have homework after lectures?
 
@@ -18,4 +18,4 @@ Answer: Based on all your practice work (including test task, home works, final 
 
 > How many lectures will we have?
 
-Answer: Approximately `10 lectures` 
+Answer: Approximately `8 lectures` 

@@ -1,6 +1,8 @@
-# Course overview
+# Overview
 
-Ciklum is glad to announce the **Ciklum University: JS Royal Internship** program opening in Kyiv!
+![alt text](./assets/images/js-band-cover.png)
+
+Ciklum is glad to announce the **Ciklum University: JS Band Internship** program opening in Kyiv!
 
 We will offer placement in Ciklum Digital Team to those who successfully finish the program.
 
@@ -23,9 +25,9 @@ To apply for the program, please fill in the [form](https://forms.gle/v1u3kPg4HM
 If you have questions, before getting down to the task, please drop us a line at ia-js-internship@ciklum.com
 
 ## Internship details
-- Applications are due `27 October`;
-- The first class will be held on `4st November`;
-- Duration of the internship: `6 weeks`;
+- Applications are due `03 November` include;
+- The first class will be held on `11 November`;
+- Duration of the internship: `4 weeks`;
 - Schedule of the internship: `evening classes`, `2 times a week on workdays`; `1,5-2 hour` each class.
 - The class will be held in Ciklum office in `Kiev, 12 Amosova str., 2nd tower, 11th floor`.
 
