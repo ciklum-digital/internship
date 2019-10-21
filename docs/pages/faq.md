@@ -19,3 +19,7 @@ Answer: Based on all your practice work (including test task, home works, final 
 > How many lectures will we have?
 
 Answer: Approximately `8 lectures` 
+
+> Can I use React / Angular / other framework ?
+
+Answer: No, only Javascript for now 
