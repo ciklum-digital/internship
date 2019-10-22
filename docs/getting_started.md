@@ -14,9 +14,10 @@ You are the perfect candidate if:
 - You are ready to put time and effort to achieve the best results
 - You are ready for full-time work in case of successfully finish the program.
 
- **First**, you should **execute a tech task** the detailed description for which you can find [here](https://ciklum-digital.github.io/internship/#/pages/task). Be focused on acceptance criteria that are provided in the task. It is practically the main reviewing point for us. Everything else is up to you 👨🏻‍🔬.
+
+**First**, you should **execute a tech task** the detailed description for which you can find [here](https://ciklum-digital.github.io/internship/#/pages/task). Be focused on acceptance criteria that are provided in the task. It is practically the main reviewing point for us. Everything else is up to you 👨🏻‍🔬.
  
- **Second**, to apply for the program, you should fill in the form. It will ask for the following:
+**Second**, to apply for the program, you should fill in the form. It will ask for the following:
 - Full name
 - Skype name
 - Phone number
