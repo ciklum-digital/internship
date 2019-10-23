@@ -4,6 +4,10 @@
 
 Answer: `03 November 2019`
 
+> Whats next?
+
+Answer: We will check your work, define the best and conduct small HR interview with best of you. After HR screening we will define internship participants final list
+
 > Will we have homework after lectures?
 
 Answer: Yes, And we will review it and add to your score
