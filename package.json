@@ -1,7 +1,7 @@
 {
-  "name": "intership",
-  "version": "1.0.0",
-  "description": "Ciklum-digital internship site",
+  "name": "Ciklum University: JS Band Internship",
+  "version": "1.0",
+  "description": "Ciklum University: JS Band Internship",
   "main": "docs/index.html",
   "directories": {
     "doc": "docs"
