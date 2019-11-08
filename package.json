@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "start": "npx docsify serve ./docs"
+    "start": "docsify serve ./docs"
   },
   "dependencies": {
     "docsify-cli": "^4.3.0"
@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/ciklum-digital/internship/issues"
   },
-  "homepage": "https://ciklum-digital.github.io/internship/"
+  "homepage": "https://ciklum-digital.github.io/internship/",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
 }
