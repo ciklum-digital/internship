@@ -9,6 +9,17 @@
 - Classes
 - Prototypes
 
+>#### Modules
+
+- Module
+- Import/Export
+- Dynamic imports
+
+>#### DOM
+
+- DOM-tree
+- Resource load order
+
 >#### Async Javascript
 
 - Callback
@@ -16,12 +27,6 @@
 - Generators
 - Async/await
 - Observables
-
->#### Modules
-
-- Module
-- Import/Export
-- Dynamic imports
 
 >#### Design patterns
 
@@ -36,18 +41,11 @@
 - MVC / MVP / MVVM
 - Unidirectional Data Flow (Flux)
 
->#### Basics of Typescript
-
-- Types
-- Clases
-- Inheritance
-- Interfaces
 
 ## CI/CD
 >#### Development
 
 - Development processes
-- Git and source code
 - Branching strategy
 
 >#### Testing
@@ -65,6 +63,7 @@
 ## Development tools and quality
 >#### Tools
 
+- Git and source code
 - Webpack
 - Npm
 - Babel
@@ -77,19 +76,6 @@
 - Sonar
 
 ## Frameworks
->#### Angular
-
-- Basic concepts
-- Modules
-- Components / Directives
-- Services
-- Pipes
-- HTTP
-- Routing
-- Forms
-- Communications between entities
-- RxJs basics
-
 >#### React
 
 - Basic concepts
