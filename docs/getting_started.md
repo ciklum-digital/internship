@@ -1,43 +1,34 @@
-# Overview
+# Roadmap
 
-![alt text](./assets/images/js-band-cover.png)
+![alt text](../assets/images/js-band-cover.png)
 
-Ciklum is glad to announce the **Ciklum University: JS Band Internship** program opening in Kyiv!
+Ciklum is glad to welcome you as participants of the **Ciklum University: JS Band Internship** program opening in Kyiv!
 
-We will offer placement in Ciklum Digital Team to those who successfully finish the program.
+Next steps you should know about:
 
-## Applyment details
- 
-You are the perfect candidate if:
-- You have the basic knowledge / understanding of HTML/CSS/JavaScript
-- You are highly motivated to to learn JavaScript
-- You are ready to put time and effort to achieve the best results
-- You are ready for full-time work in case of successfully finish the program.
+## step #1. Pass the entry exams successfully
+
+1. Apply for the program and receive the test task;
+2. Complete the test task and get a video task;
+3. Tell us what you can do and wait for results;
+4. Get the results and now be present **here**.
 
 
-**First**, you should **execute a tech task** the detailed description for which you can find [here](https://ciklum-digital.github.io/internship/#/pages/task). Be focused on acceptance criteria that are provided in the task. It is practically the main reviewing point for us. Everything else is up to you 👨🏻‍🔬.
- 
-**Second**, to apply for the program, you should fill in the form. It will ask for the following:
-- Full name
-- Skype name
-- Phone number
-- Link to your relevant CV
-- Link to GitHub repository with **finished Test task**
-- Link to GitHub pages where **Test task result deployed**
- 
-If you have questions, before getting down to the task, please drop us a line at ia-js-band-internship@ciklum.com
+## step #2. Complete the course
 
-## Internship details
-- Applications are due `03 November` include;
-- The first class will be held on `11 November`;
-- Duration of the internship: `4 weeks`;
-- Schedule of the internship: `evening classes`, `2 times a week on workdays`; `1,5-2 hour` each class.
-- The class will be held in Ciklum office in `Kiev, 12 Amosova str., 2nd tower, 11th floor`.
+1. Come to class, hear the lecture and get a home task;
+2. Complete the home task before the next class and get feedback;
+3. Repeat steps 1 and 2 eight times. We will consider your attendance and grade your home tasks.
 
-`[important]` The education is for free, but we reserve the right to choose the candidates for the program;
- 
-If you have any questions - get in touch at ia-js-band-internship@ciklum.com
- 
-May the force be with you 🙌
+## step #2. Complete the final task successfully
 
- 
+1. Attend the final lecture (5.12) and get the final task;
+2. Hand in the final task within 7 days and wait for the result;
+3. Become a Junior Javascript developer at Ciklum.
+
+## Summary
+
+- `8` lectures;
+- `7` home tasks; (from **lecture N** - till **lecture N+1**)
+- `1` final task(from **lecture 8** - till **12.12**)
+- job: `Junior Javascript developer`
