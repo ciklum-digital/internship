@@ -1,6 +1,6 @@
 # Roadmap
 
-![alt text](../assets/images/js-band-cover.png)
+![alt text](./assets/images/js-band-cover.png)
 
 Ciklum is glad to welcome you as participants of the **Ciklum University: JS Band Internship** program opening in Kyiv!
 
