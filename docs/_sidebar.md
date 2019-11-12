@@ -3,6 +3,7 @@
 - [Program](pages/program.md)
 <!-- - [Task](pages/task.md) -->
 - [Lectures](pages/lectures.md)
+- [Homework](pages/homework.md)
 - [Mentors](pages/mentors.md)
 <!-- - [Contacts](pages/contacts.md) -->
 - [FAQ](pages/faq.md)
