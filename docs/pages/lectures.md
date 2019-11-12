@@ -20,6 +20,7 @@
 - **date**: `Mon, 11 Nov, 19:00`,
 - **room**: `T2, 11 floor, Andora`
 - **pdf**: [Javascript.Fundamentals](https://drive.google.com/a/ciklum.com/file/d/13T7eWYVSNENo1MfA5DmkWuETH2ug9kuH/view?usp=sharing), [Javascript.Modules](https://drive.google.com/a/ciklum.com/file/d/1p_6SpdmuSF-A_Rh6cbPnCs-2sawfLs5T/view?usp=sharing)
+- **homework**: [hw-1](https://ciklum-digital.github.io/internship/#/pages/homework?id=homework-1)
 
 
 ## l2
