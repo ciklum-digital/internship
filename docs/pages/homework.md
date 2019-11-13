@@ -37,7 +37,7 @@ What type of information they want to collect:
 
 **Ships/Argosy:**
 - id 
-- Type (equal 1)
+- Model
 - Serial number/Name
 - Produced year
 - Capacity (in kg)
@@ -47,7 +47,7 @@ What type of information they want to collect:
 
 **Trucks:**
 - id
-- Type (equal 2)
+- Model
 - License plate
 - Produced year
 - Capacity (in kg)
@@ -56,7 +56,7 @@ What type of information they want to collect:
 
 
 **Cost of delivery:**
-- Transport Type (1 or 2)
+- Transport Model
 - Cost (by 1 kg of cargo)
 - Cost (by 1 km of distance)
 
@@ -80,7 +80,7 @@ What type of information they want to collect:
 ```js
 const DEFAULT_SHIP = {
   id: 'xxxxx-qqqqq-aaaaa',
-  type: '1',
+  model: 'Combo',
   name: 'JS Band Ship',
   producedYear: '2019',
   capacity: '200000',
@@ -90,7 +90,7 @@ const DEFAULT_SHIP = {
 
 const DEFAULT_TRUCK = {
   id: 'smrta-asdad-deead',
-  type: '2',
+  type: 'MAN TGX D38',
   licensePlate: 'AA1232OO',
   producedYear: '2018',
   capacity: '12000',
