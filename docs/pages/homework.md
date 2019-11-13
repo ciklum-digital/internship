@@ -90,7 +90,7 @@ const DEFAULT_SHIP = {
 
 const DEFAULT_TRUCK = {
   id: 'smrta-asdad-deead',
-  type: 'MAN TGX D38',
+  model: 'MAN TGX D38',
   licensePlate: 'AA1232OO',
   producedYear: '2018',
   capacity: '12000',
