@@ -31,7 +31,9 @@
 - **speakers**: `['Aleksey Grinevich', 'Sergii Bogdaniuk']`,
 - **date**: `Thu, 14 Nov, 19:00`,
 - **room**: `T2, 20 floor, Skypoint`,
-- **pdf**: []()
+- **pdf**: [Javascript.DOM.V8.ASYNC](https://drive.google.com/a/ciklum.com/file/d/1ao-J71ApWTAWS9p0A2wdPKQSk1tFndcM/view?usp=sharing)
+- **zip**: [Source.code](https://drive.google.com/a/ciklum.com/file/d/1SM_5QPmy1ok_Xuj0h7Hnm9cAo5vOUxxS/view?usp=sharing)
+- **homework**: [hw-2](https://ciklum-digital.github.io/internship/#/pages/homework?id=homework-2)
 
 ## l3
 
