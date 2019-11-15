@@ -158,10 +158,14 @@ function getTruckListCallback(callback) {
     
 }
 
-function getTruckList(callback) {
+function getTruckListPromise(callback) {
     return new Promise(((resolve, reject) => {
         ...
     }))
+}
+
+function async getTruckListAsynAwait() {
+    ...
 }
 ```
 
@@ -170,7 +174,8 @@ function getTruckList(callback) {
 - Create the method for retrieving data for the list of trucks from the backend.
 
 ### Acceptance criteria
-- We should implement method getTruckListCallback (use methods with callback)
-- We should implement method getTruckList (use methods with promise)
-- We should try to get document again if received error, but no more than 2 times
+-  ```getTruckListCallback``` (use methods with callback) should be implemented
+- ```getTruckListPromise``` (use methods with promise) should be implemented
+- ```getTruckListAsyncAwait``` (use async, await) should be implemented
+- Methods should try to get document again if received error, but no more than two times
     - if the error happens more than two times, the method should skip this truck
