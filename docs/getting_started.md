@@ -20,7 +20,7 @@ Next steps you should know about:
 2. Complete the home task before the next class and get feedback;
 3. Repeat steps 1 and 2 eight times. We will consider your attendance and grade your home tasks.
 
-## step #2. Complete the final task successfully
+## step #3. Complete the final task successfully
 
 1. Attend the final lecture (5.12) and get the final task;
 2. Hand in the final task within 7 days and wait for the result;
