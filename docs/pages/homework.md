@@ -164,7 +164,7 @@ function getTruckListPromise() {
     }))
 }
 
-function async getTruckListAsynAwait() {
+async function getTruckListAsynAwait() {
     ...
 }
 ```
