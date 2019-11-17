@@ -158,7 +158,7 @@ function getTruckListCallback(callback) {
     
 }
 
-function getTruckListPromise(callback) {
+function getTruckListPromise() {
     return new Promise(((resolve, reject) => {
         ...
     }))
