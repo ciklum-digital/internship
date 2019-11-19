@@ -42,6 +42,21 @@
 - Unidirectional Data Flow (Flux)
 
 
+## Development tools and quality
+>#### Tools
+
+- Git and source code
+- Webpack
+- Npm
+- Babel
+- Chrome dev tools
+
+>#### Quality
+
+- Eslint
+- Jest
+- Sonar
+
 ## CI/CD
 >#### Development
 
@@ -59,21 +74,6 @@
 - Travis CI
 - Github
 - Delivery artifacts
-
-## Development tools and quality
->#### Tools
-
-- Git and source code
-- Webpack
-- Npm
-- Babel
-- Chrome dev tools
-
->#### Quality
-
-- Eslint
-- Jest
-- Sonar
 
 ## Frameworks
 >#### React
