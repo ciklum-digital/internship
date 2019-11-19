@@ -1,6 +1,6 @@
 # Lectures
 
-## l0
+## Lecture 0
 
 - **topic**: `Introduction`,
 - **details**: `['Ciklum digital', 'Internship Roadmap']`,
@@ -11,7 +11,7 @@
 - **pdf**: [Introduction.pdf](https://drive.google.com/a/ciklum.com/file/d/1ZyKeF1ccy6VVzaZKyuqvBZyC8Zpr0Ief/view?usp=sharing)
 
 
-## l1
+## Lecture 1
 
 - **topic**: `JavaScript`,
 - **details**: `['Basics of Javascript', 'Modules']`,
@@ -20,10 +20,10 @@
 - **date**: `Mon, 11 Nov, 19:00`,
 - **room**: `T2, 11 floor, Andora`
 - **pdf**: [Javascript.Fundamentals](https://drive.google.com/a/ciklum.com/file/d/13T7eWYVSNENo1MfA5DmkWuETH2ug9kuH/view?usp=sharing), [Javascript.Modules](https://drive.google.com/a/ciklum.com/file/d/1p_6SpdmuSF-A_Rh6cbPnCs-2sawfLs5T/view?usp=sharing)
-- **homework**: [hw-1](https://ciklum-digital.github.io/internship/#/pages/homework?id=homework-1)
+- **homework**: [hw-1](https://ciklum-digital.github.io/internship/#/pages/homework?id=homework_1)
 
 
-## l2
+## Lecture 2
 
 - **topic**: `JavaScript 2.0`,
 - **details**: `['DOM', 'V8', 'Async JS']`,
@@ -33,9 +33,9 @@
 - **room**: `T2, 20 floor, Skypoint`,
 - **pdf**: [Javascript.DOM.V8.ASYNC](https://drive.google.com/a/ciklum.com/file/d/1ao-J71ApWTAWS9p0A2wdPKQSk1tFndcM/view?usp=sharing)
 - **zip**: [Source.code](https://drive.google.com/a/ciklum.com/file/d/1SM_5QPmy1ok_Xuj0h7Hnm9cAo5vOUxxS/view?usp=sharing)
-- **homework**: [hw-2](https://ciklum-digital.github.io/internship/#/pages/homework?id=homework-2)
+- **homework**: [hw-2](https://ciklum-digital.github.io/internship/#/pages/homework?id=homework_2)
 
-## l3
+## Lecture 3
 
 - **topic**: `Patterns`,
 - **details**: `['Design patterns', 'Architecture patterns']`,
@@ -46,3 +46,52 @@
 - **pdf**: []()
 
 
+> ## Lecture 4
+
+- **topic**: `Development tools and quality`,
+- **details**: `['Tools', 'Quality']`,
+- **timing**: `120min`,
+- **speakers**: `['Sergii Bogdaniuk', 'Maksym Lypivskyi']`,
+- **date**: `Thu, 21 Nov, 19:00`,
+- **room**: `T2, 20 floor, Skypoint`,
+- **pdf**: []()
+
+## Lecture 5
+
+- **topic**: `CI/CD`,
+- **details**: `['Development', 'Testing', 'Deployment']`,
+- **timing**: `120min`,
+- **speakers**: `['Borys Strynzha', 'Maksym Lypivskyi']`,
+- **date**: `Mon, 25 Nov, 19:00`,
+- **room**: `T2, 11 floor, Andora`,
+- **pdf**: []()
+
+## Lecture 6
+
+- **topic**: `React`,
+- **details**: `['React fundamentals']`,
+- **timing**: `120min`,
+- **speakers**: `['Bohdan Pohasii', 'Borys Strynzha']`,
+- **date**: `Thu, 28 Nov, 19:00`,
+- **room**: `T2, 20 floor, Skypoint`,
+- **pdf**: []()
+
+## Lecture 7
+
+- **topic**: `React state mgmt`,
+- **details**: `['React state mgmt fundamentals']`,
+- **timing**: `120min`,
+- **speakers**: `['Borys Strynzha', 'Sergii Bogdaniuk']`,
+- **date**: `Mon, 02 Dec, 19:00`,
+- **room**: `T2, 11 floor, Andora`,
+- **pdf**: []()
+
+## Lecture 8
+
+- **topic**: `SDLC`,
+- **details**: `['Methodologies', 'Workflow']`,
+- **timing**: `120min`,
+- **speakers**: `['Vasyl Posmitnyi', 'Bohdan Pohasii']`,
+- **date**: `Thu, 05 Dec, 19:00`,
+- **room**: `T1, 10 floor, Thailand`,
+- **pdf**: []()
