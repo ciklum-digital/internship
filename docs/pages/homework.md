@@ -182,7 +182,7 @@ async function getTruckListAsynAwait() {
 
 ## Homework 3
 
-We had the project audit of our PoC for the client. And now we have few suggestions about our solution.
+We had the audit of our PoC. And now we have few suggestions about our solution.
 First, it's better to create different types of transports by using Factory Method.
 Second, we need to prepare service for local storage as a Singleton and set prefix what will be added to the key name.
 
