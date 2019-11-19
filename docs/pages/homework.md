@@ -179,3 +179,23 @@ async function getTruckListAsynAwait() {
 - ```getTruckListAsyncAwait``` (use async, await) should be implemented
 - Methods should try to get document again if received error, but no more than two times
     - if the error happens more than two times, the method should skip this truck
+
+## Homework 3
+
+We had the project audit of our PoC for the client. And now we have few suggestions about our solution.
+First, it's better to create different types of transports by using Factory Method.
+Second, we need to prepare service for local storage as a Singleton and set prefix what will be added to the key name.
+
+### Objectives:
+- Update your existing functionality by using Method factory
+- Implement service for the local storage as Singleton
+### Arch notes:
+```
+Example about prefix: we try to save ‘token’ with value ‘1234’ to the storage and we set prefix ‘JS-Band-’,
+we will have ‘JS-Band-token’ as a key and ‘1234’ as a value in the local storage.
+```
+ACCEPTANCE CRITERIA:
+- New transport is created by using Factory Method pattern.
+- Functionality should work as before
+- Push you application into github pages
+- Local storage prefix should be set one time on the application initialization
