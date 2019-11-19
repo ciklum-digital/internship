@@ -191,10 +191,8 @@ Second, we need to prepare service for local storage as a Singleton and set pref
 - Implement service for the local storage as Singleton
 
 ### Arch notes:
-```
 Example about prefix: we try to save ‘token’ with value ‘1234’ to the storage and we set prefix ‘JS-Band-’,
 we will have ‘JS-Band-token’ as a key and ‘1234’ as a value in the local storage.
-```
 
 ### Acceptance criteria:
 - New transport is created by using Factory Method pattern.
