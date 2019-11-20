@@ -43,8 +43,8 @@
 - **speakers**: `['Aleksey Grinevich', 'Maksym Lypivskyi']`,
 - **date**: `Mon, 18 Nov, 19:00`,
 - **room**: `T2, 11 floor, Andora`,
-- **pdf**: []()
-
+- **pdf**: [OOP.DesignPatterns](https://drive.google.com/a/ciklum.com/file/d/1GyKO-U8TsRyhG92pLhJvir4hoz4xvBo2/view?usp=sharing)
+- **homework**: [hw-3](https://ciklum-digital.github.io/internship/#/pages/homework?id=homework_3)
 
 > ## Lecture 4
 
