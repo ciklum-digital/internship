@@ -233,7 +233,7 @@ body .sidebar-toggle {
 }
 
 body .sidebar-toggle span {
-  background-color: var(--theme-color);
+  background-color: var(--theme-color-bg);
   height: 0.2rem;
   width: 1.5rem;
   position: absolute;
