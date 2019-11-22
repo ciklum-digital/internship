@@ -199,3 +199,25 @@ we will have ‘JS-Band-token’ as a key and ‘1234’ as a value in the local
 - Functionality should work as before
 - Push you application into github pages
 - Local storage prefix should be set one time on the application initialization
+
+## Homework 4
+
+Our PoC looks nice for the client and we should start preparation for the project development. We should define quality processes and tools and prepare our project for effective development.
+
+### Objectives:
+- Add eslint to our project
+- Add commitizen tool to improve commit messages and log history
+- Add and setup Jest for implementing autotest 
+- Add Webpack config for dev prod and common
+- Describe application launch process and commands what we have
+- Describe structure of our project
+
+### Acceptance criteria:
+- Eslint should be available and we should have a command for launching linting check in the scripts
+- Commitizen should be added into our project and all changes in our project should be committed by using this tool
+- Webpack should have at least 3 parts common, dev and production builds
+- Description of all our scripts should be available in our readme.md file
+- Description about the structure of the project should be available
+- At least one dummy test should be available
+- Lint check and the run test should be executed on the commit
+
