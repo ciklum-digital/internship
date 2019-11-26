@@ -221,3 +221,25 @@ Our PoC looks nice for the client and we should start preparation for the projec
 - At least one dummy test should be available
 - Lint check and the run test should be executed on the commit
 
+## Homework 5
+
+We prepared quality checking systems, like eslint, jest and now.
+We should prepare CI/CD setting for more effective delivery process. We are going to prepare it for our PoC. And additionally, we should start to write unit tests.
+
+### Objectives:
+- add eslint to our project
+- prepare travis-CI pipeline settings
+- add installation step
+- add linter step
+- add automation tests step and add coverage report
+- add deployment to the GitHub pages
+- implement tests for our functionality
+
+
+### Acceptance criteria:
+- pull requests mechanism should be used for making changes into repository
+- linter and testing check should be available on the CI
+- deployment to the GitHub pages should be implemented by Travis-CI
+- clear commit approach should be used
+- test coverage should be more then 40%
+
