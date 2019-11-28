@@ -243,3 +243,53 @@ We should prepare CI/CD setting for more effective delivery process. We are goin
 - clear commit approach should be used
 - test coverage should be more then 40%
 
+
+## Homework 6
+### Objectives
+
+- Create a todo-list application. Which includes next functionality:
+    - Create a todo-item with a **title**, **description**, **priority** fields and a default status - **open**;
+    - Edit all todo-item fields;
+    - Move todo-item in **done** status;
+    - Delete todo-item
+    - Search todo-item by **title**;
+    - Filter todo-item by **status**;
+    - Filter todo-item by **priority**.
+- For task implementation you must use:
+    - `React` with `Babel` transpiler;
+    - `Bootstrap CSS` as a CSS library [link](https://getbootstrap.com/docs/3.4/css/);
+- Routing:
+    - Application should start from `/todos` route;  
+    - Todo list should be available under  `/todos` route;
+    - Other routes should be unavailable and respond with `not found` UI. 
+- Your application should be based on Wireframes provided in the **Arch notes** section
+
+### Arch notes
+
+- Empty state:
+![Empty state](../assets/images/task/empty_state.png)
+
+- Create/Edit state:
+![Create edit state](../assets/images/task/create_edit_state.png)
+
+- Common state: (*the last one is done)
+![List state](../assets/images/task/list_state.png)
+
+- Filtered state:
+![Filtered list state](../assets/images/task/filtered_list_state.png)
+
+### Acceptance criteria
+
+- `React` should be used for task implementation;
+- Only custom react components should be used;
+- Components should be placed in separated files (dont forget about modularity); 
+- React code should be lintered with [`airbnb/react`](https://github.com/airbnb/javascript/tree/master/react) style guide;
+- `Bootstrap CSS` should be used as a CSS library [link](https://getbootstrap.com/docs/3.4/css/);
+- Todo list should be available under  `/todos` route;
+- Other routes should be unavailable and respond with `not found` UI;
+- Webpack config should be provided;
+- Pull requests mechanism should be used for making changes into repository;
+- Linter check should be available on the CI;
+- Deployment to the GitHub pages should be implemented via Travis-CI;
+- Clear commit approach should be used.
+

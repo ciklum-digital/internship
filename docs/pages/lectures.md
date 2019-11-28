@@ -55,6 +55,7 @@
 - **date**: `Thu, 21 Nov, 19:00`,
 - **room**: `T2, 20 floor, Skypoint`,
 - **pdf**: [Development_tools_and_quality.pdf](https://drive.google.com/a/ciklum.com/file/d/1jxglxYeaVEPsvewQftmtiJn34sjU7Tnc/view?usp=sharing)
+- **homework**: [hw-4](https://ciklum-digital.github.io/internship/#/pages/homework?id=homework_4)
 
 > ## Lecture 5
 
@@ -65,6 +66,7 @@
 - **date**: `Mon, 25 Nov, 19:00`,
 - **room**: `T2, 11 floor, Andora`,
 - **pdf**: []()
+- **homework**: [hw-5](https://ciklum-digital.github.io/internship/#/pages/homework?id=homework_5)
 
 ## Lecture 6
 
@@ -74,7 +76,8 @@
 - **speakers**: `['Bohdan Pohasii', 'Borys Strynzha']`,
 - **date**: `Thu, 28 Nov, 19:00`,
 - **room**: `T2, 20 floor, Skypoint`,
-- **pdf**: []()
+- **pdf**: [React.Fundamentals](https://drive.google.com/a/ciklum.com/file/d/1wE_IuGmcBsd4W56GIfbVj9-pRBgirCNw/view?usp=sharing)
+- **homework**: [hw-6](https://ciklum-digital.github.io/internship/#/pages/homework?id=homework_6)
 
 ## Lecture 7
 
