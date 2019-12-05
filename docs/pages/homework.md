@@ -293,3 +293,19 @@ We should prepare CI/CD setting for more effective delivery process. We are goin
 - Deployment to the GitHub pages should be implemented via Travis-CI;
 - Clear commit approach should be used.
 
+
+## Homework 7
+### Objectives
+
+- Add to your React application state management;
+- For task implementation you should use `Redux`.
+
+### Acceptance criteria
+
+- `Redux` should be used as state management library;
+- Create, edit, remove, filter, search should be implemented with `Redux`;
+- Use branch strategy from previous lecture;
+- Application should be deployed to github pages;
+- Use `Travis CI` for continuous deployment.
+
+
