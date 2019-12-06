@@ -87,7 +87,7 @@
 - **speakers**: `['Borys Strynzha', 'Sergii Bogdaniuk']`,
 - **date**: `Mon, 02 Dec, 19:00`,
 - **room**: `T2, 11 floor, Andora`,
-- **pdf**: []()
+- **pdf**: [React.state.managment.pdf](https://drive.google.com/a/ciklum.com/file/d/1jywAwo5BWfQyb9IPD-azkLbHMMcqjVga/view?usp=sharing)
 
 ## Lecture 8
 
@@ -97,4 +97,4 @@
 - **speakers**: `['Vasyl Posmitnyi', 'Bohdan Pohasii']`,
 - **date**: `Thu, 05 Dec, 19:00`,
 - **room**: `T1, 10 floor, Thailand`,
-- **pdf**: []()
+- **pdf**: [SDLC.pdf](https://drive.google.com/a/ciklum.com/file/d/1ChrhKYcRXZMaHBj7pNdSlHJBIgCcNdwI/view?usp=sharing)
