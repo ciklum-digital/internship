@@ -39,6 +39,7 @@ You have a new client, it’s **“JS Band”** internship company. They want to
 #### Validation
 - `username`: required, minLength: 4, maxLength: 16;
   - errorMessage: 'Field is not valid'
+- `count`: user can add only available count of books to the cart  
 
 
 #### Screens
@@ -90,6 +91,8 @@ You have a new client, it’s **“JS Band”** internship company. They want to
   "books": [
      {
        "id": "String",
+       "count": "Number",
+       "price": "Number",
        "title": "String",
        "author": "String",
        "level": "String",
@@ -117,6 +120,8 @@ You have a new client, it’s **“JS Band”** internship company. They want to
 "statusCode": 200,
 "data": {
    "id": "String",
+   "count": "Number",
+   "price": "Number",
    "title": "String",
    "author": "String",
    "level": "String",
