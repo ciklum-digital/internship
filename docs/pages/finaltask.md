@@ -171,7 +171,7 @@ You have a new client, it’s **“JS Band”** internship company. They want to
 - Code should be lintered with [`airbnb/react`](https://github.com/airbnb/javascript/tree/master/react) style guide;
 - `Bootstrap CSS` should be used as a CSS library [link](https://getbootstrap.com/docs/3.4/css/);
 - Other routes should be unavailable and respond with `not found` UI;
-- Only `/signin` and `not-found` routes should be available for the unauthorized user, another else should be restricted;
+- Only `/signin` route should be available for the unauthorized user, another else should be restricted;
 - `Pull requests` mechanism should be used for making changes into repository;
 - Linter check should be available on the CI;
 - Deployment to the `GitHub pages` should be implemented via Travis-CI;
